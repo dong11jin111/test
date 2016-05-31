@@ -5,4 +5,5 @@ git track  of something
 
 第一个远程仓库
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simplt.
