@@ -10,4 +10,4 @@ Creating a new branch is quick and simplt.
 
 branch again
 
-coding utf-8
+/usr/bin/env
